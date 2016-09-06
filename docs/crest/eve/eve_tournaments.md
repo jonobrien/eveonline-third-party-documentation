@@ -605,19 +605,3 @@ TournamentPilotStatsCollection-v1+json
   "totalCount":2
 }
 ```
-
-
-## NAME
-### Route
-``/ROUTE/`
-
-### API version
-
-TYPE-v1+json
-
-### GET
-* Cache: ()
-
-```json
-{}
-```
