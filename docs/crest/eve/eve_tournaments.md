@@ -548,13 +548,37 @@ TournamentMatch-v1+json
 
 ### API version
 
--v1+json
+TournamentTypeBanCollection-v1+json
 
 ### GET
 * Cache: ()
+* This is identical to the two separate team bans with the associated `/series/`
 
 ```json
+{
+  "totalCount_str":"2",
+  "items":[
+    {
+      "typeBans":[
 
+      ],
+      "bannedBy":{
+        "href":"https://crest-tq.eveonline.com/tournaments/teams/197/"
+      }
+    },
+    {
+      "typeBans":[
+
+      ],
+      "bannedBy":{
+        "href":"https://crest-tq.eveonline.com/tournaments/teams/198/"
+      }
+    }
+  ],
+  "pageCount":1,
+  "pageCount_str":"1",
+  "totalCount":2
+}
 ```
 
 
