@@ -14,3 +14,4 @@
 * [Sovereignty Structures and Campaigns](eve_sovereignty.md)
 * [Time](eve_time.md)
 * [Wars and War](eve_wars.md)
+* [Alliance Tournaments](eve_tournaments.md)
