@@ -1,6 +1,7 @@
 # Eve
 
 * [Alliances and Alliance](eve_alliances.md)
+* [Alliance Tournaments](eve_tournaments.md)
 * [Bloodlines](eve_bloodlines.md)
 * [Dogma Attributes and Attribute](eve_dogmaAttributes.md)
 * [Dogma Effects and Effect](eve_dogmaEffects.md)
@@ -14,4 +15,4 @@
 * [Sovereignty Structures and Campaigns](eve_sovereignty.md)
 * [Time](eve_time.md)
 * [Wars and War](eve_wars.md)
-* [Alliance Tournaments](eve_tournaments.md)
+
